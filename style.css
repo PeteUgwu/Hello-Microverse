@@ -1,0 +1,12 @@
+body {
+  background-color: lightgray;
+  padding: 0;
+  margin: 0;
+}
+
+h1 {
+  color: blue;
+  text-align: center;
+  font-size: 4rem;
+  margin-top: 2rem;
+}

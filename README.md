@@ -15,13 +15,9 @@
 
 ## Getting Started
 
-Getting Started
-
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
-
-Prerequisites
 
 Code Editor(VS Studio Code)
 Web Browser (Google Chrome recommended)
@@ -38,8 +34,6 @@ To run the project do the following:
 - Voila! Your project is Live. You can procceed to make changes to the files
 
 ## Author
-
-👤 **Author**
 
 - GitHub: [@PeteUgwu](https://github.com/PeteUgwu)
 - Twitter: [@Petrus4Charles](https://twitter.com/Petrus4Charles)

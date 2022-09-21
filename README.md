@@ -15,30 +15,35 @@
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+Getting Started
 
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-### Setup
+Prerequisites
 
-### Install
+Code Editor(VS Studio Code)
+Web Browser (Google Chrome recommended)
 
-### Usage
+How to Run
+To run the project do the following:
 
-### Run tests
+Clone the repository into a folder
+Open the folder with your code editor (say; VS Code)
+Install Live Server Extension on VS Code
+Open the index.html file
+Click on Live Server button on the base of your VS Code
+Wait for a new tab to open
+Voila! Your project is Live. You can procceed to make changes to the files
 
-### Deployment
+## Author
 
-## Authors
+👤 **Author**
 
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@PeteUgwu](https://github.com/PeteUgwu)
+- Twitter: [@Petrus4Charles](https://twitter.com/Petrus4Charles)
+- LinkedIn: [/peter-ugwu-15a3a724b/](https://www.linkedin.com/in/peter-ugwu-15a3a724b/)
 
 ## 🤝 Contributing
 
@@ -52,9 +57,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Microverse
 
 ## 📝 License
 
